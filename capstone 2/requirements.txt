@@ -7,6 +7,4 @@ seaborn
 matplotlib
 datetime
 streamlit-lottie
-sqlalchemy
-pymysql
 xgboost
