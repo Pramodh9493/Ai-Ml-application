@@ -6,9 +6,6 @@ import pickle
 import streamlit as st
 import time
 import base64
-from sqlalchemy import create_engine,text
-import pymysql
-from sqlalchemy.exc import SQLAlchemyError
 from xgboost import XGBClassifier
 import re
 
